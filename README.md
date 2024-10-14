@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning java with DSA and working on a project Campus Sphere using mern stack.
 - 💞️ I’m looking to collaborate with interesting projects.
 - 📫 You can reach me at isajidkhan03@gmail.com or @Sajidkhan876
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him , They/Them
+- ⚡ Fun fact: At free time i enjoyed palying chess and solve rubic cubes...
 
 <!---
 khansajid1/khansajid1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
